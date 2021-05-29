@@ -20,4 +20,4 @@ You can talk to Yoku about:
 
 ### Version
 
-***Vesrion:*** **0.1**,  ***Created by:*** **ELATTAR Ayoub**,  **5/29/2021**.
+***Vesrion:*** **0.0.1**,  ***Created by:*** **ELATTAR Ayoub**,  **5/29/2021**.
